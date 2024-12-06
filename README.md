@@ -1,0 +1,1 @@
+to run code, go to [Advent of Code](https://adventofcode.com/2024), get the input Data of the corresponding Puzzle and put it in a File called dayXinput.txt.
